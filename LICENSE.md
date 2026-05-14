@@ -1,4 +1,4 @@
-#  
+#  new Obsidian for macOS Addon | markdown support + OCR scanning offers the most advanced Obsidian for macOS addon, with markdown support and OCR scanning. Ideal for professionals.
 
 
 
